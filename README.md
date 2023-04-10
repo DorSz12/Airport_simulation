@@ -1,4 +1,4 @@
-# Airport_simulation
+# Airport simulation
 Simplified simulation of planes arrivals and departures at the airport
 
 ## Requirements
